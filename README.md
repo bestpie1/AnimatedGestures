@@ -16,6 +16,6 @@ AnimatedGestures (Middle Finger Toggle)
 
 
 Help:
-If you need help please make a issue in github (
+If you need help please make a issue in github (https://github.com/bestpie1/AnimatedGestures)
 or
 Join this discord server and send me a dm through the server. (https://discord.gg/cxjRGb4UZn)
