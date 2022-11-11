@@ -1,0 +1,21 @@
+There are 3 different Types/Options of Hand Gesture Settings:
+1. AnimatedGestures (DemonHours)
+2. AnimatedGestures (MiddleFinger)
+3. AnimatedGestures (Middle Finger Toggle)
+
+
+Setup:
+AnimatedGestures (DemonHours)
+^https://youtu.be/_qeYa-B5PHw
+
+AnimatedGestures (MiddleFinger)
+^https://youtu.be/6_y50faEO7w
+
+AnimatedGestures (Middle Finger Toggle)
+^https://youtu.be/g1dp_86QkfE
+
+
+Help:
+If you need help please make a issue in github (https://github.com/bestpie1/AnimatedGestures)
+or
+Join this discord server and send me a dm through the server. (https://discord.gg/cxjRGb4UZn)
