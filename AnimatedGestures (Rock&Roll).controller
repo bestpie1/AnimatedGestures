@@ -428,7 +428,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: AnimatedGestures (DemonHours)
+  m_Name: AnimatedGestures (Rock&Roll)
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: GestureLeft
@@ -1461,7 +1461,7 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102361318127573164}
-    m_Position: {x: -280, y: 140, z: 0}
+    m_Position: {x: -350, y: 110, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -4772957546749194102}
     m_Position: {x: 50, y: 310, z: 0}
@@ -1496,9 +1496,9 @@ AnimatorStateMachine:
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: -230, y: 380, z: 0}
-  m_EntryPosition: {x: -330, y: 100, z: 0}
-  m_ExitPosition: {x: 264, y: 72, z: 0}
+  m_AnyStatePosition: {x: -320, y: 380, z: 0}
+  m_EntryPosition: {x: -330, y: 80, z: 0}
+  m_ExitPosition: {x: -330, y: 50, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: 1102361318127573164}
 --- !u!114 &114022255662586678
@@ -5162,9 +5162,9 @@ AnimatorStateMachine:
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: 50, y: 20, z: 0}
-  m_EntryPosition: {x: 50, y: 120, z: 0}
-  m_ExitPosition: {x: 800, y: 120, z: 0}
+  m_AnyStatePosition: {x: 100, y: 20, z: 0}
+  m_EntryPosition: {x: 100, y: 50, z: 0}
+  m_ExitPosition: {x: 100, y: 80, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: 0}
 --- !u!1107 &1107970192013027796
@@ -5178,7 +5178,7 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102634051362411278}
-    m_Position: {x: 264, y: 0, z: 0}
+    m_Position: {x: -20, y: 40, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 2798500072757071789}
     m_Position: {x: 450, y: 140, z: 0}
@@ -5571,7 +5571,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: DemonHours
+  m_Name: Rock&Roll
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []

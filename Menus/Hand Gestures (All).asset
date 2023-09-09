@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
-  m_Name: Hand Gestures
+  m_Name: Hand Gestures (All)
   m_EditorClassIdentifier: 
   controls:
   - name: Middle Finger (L)
@@ -28,6 +28,26 @@ MonoBehaviour:
     type: 102
     parameter:
       name: Gestures/RightHand
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Okay (L)
+    icon: {fileID: 2800000, guid: a70f97c4b5cdbd84d8be125eba483ef9, type: 3}
+    type: 102
+    parameter:
+      name: Gestures/Okay(L)
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Okay (R)
+    icon: {fileID: 2800000, guid: a70f97c4b5cdbd84d8be125eba483ef9, type: 3}
+    type: 102
+    parameter:
+      name: Gestures/Okay(R)
     value: 1
     style: 0
     subMenu: {fileID: 0}

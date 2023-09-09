@@ -17,7 +17,19 @@ MonoBehaviour:
     valueType: 2
     saved: 1
     defaultValue: 0
+    networkSynced: 1
   - name: Gestures/RightHand
     valueType: 2
     saved: 1
     defaultValue: 0
+    networkSynced: 1
+  - name: Gestures/Okay(L)
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: Gestures/Okay(R)
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
